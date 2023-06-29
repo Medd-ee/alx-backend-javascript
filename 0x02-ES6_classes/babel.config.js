@@ -1,4 +1,3 @@
-5-building.js
 module.exports = {
   presets: [
     [

@@ -1,4 +1,3 @@
-.eslintrc.js
 /**
  * Represents a Holberton Course.
  */

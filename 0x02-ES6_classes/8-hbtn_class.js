@@ -1,4 +1,3 @@
-5-building.js
 export default class HolbertonClass {
   constructor(size, location) {
     this.size = size;

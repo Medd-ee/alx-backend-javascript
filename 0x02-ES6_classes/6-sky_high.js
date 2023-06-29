@@ -1,4 +1,3 @@
-5-building.js
 import Building from './5-building';
 
 export default class SkyHighBuilding extends Building {

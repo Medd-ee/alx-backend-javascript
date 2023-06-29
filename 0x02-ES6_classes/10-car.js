@@ -1,4 +1,3 @@
-5-building.js
 export default class Car {
   constructor(brand, motor, color) {
     this.brand = brand;
